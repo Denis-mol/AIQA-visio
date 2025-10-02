@@ -1,0 +1,23 @@
+Presentation Layer:
+Tkinter-based
+Windows:
+-main_window
+-settings
+-stream
+-report
+-analytics
+
+Business Layer:
+-visio_controller
+-cameras_controller(OpenCV)
+-PLC_controller
+-AI_engine
+
+Data Layer:
+-DB_manager
+-report_manager
+
+Hardware Layer:
+-cameras
+-PLC
+-IO_devices
