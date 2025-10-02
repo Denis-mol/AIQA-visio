@@ -14,7 +14,7 @@ Business Layer:
 -AI_engine
 
 Data Layer:
--DB_manager
+-DB_manager(SQLite)
 -report_manager
 
 Hardware Layer:
